@@ -483,3 +483,12 @@ Une partie notée sans analyse (jouée en personne, ou analyse remise à plus ta
 - À revoir : renoncer à frapper quand la frappe fait peu reculer l'adversaire et expose un pion seul au fond de son jan; vérifier qu'un coup est jouable avec les dés (24/18 proposé avec 4-2)
 - Questions défectueuses : aucune
 - Détail : historique/2026-11-08-tutoriel-frapper-ou-construire.md
+
+## 2026-11-09 · Partie · backgammon contre gnubg
+- Variante : backgammon
+- Source : GNU Backgammon 1.08.003 installé sur l'ordinateur du joueur, match commencé le 2026-11-09 à 8 h 01
+- Fichier : parties/2026-11-09-gnubg-0801-gnubg.sgf
+- Format : match en 7 points
+- Déroulement : deux manches terminées, chacune gagnée 2 points par gnubg (4-0); une troisième manche commencée, non terminée dans le fichier
+- Estimation de l'étudiant : à faire
+- Analyse : à faire
