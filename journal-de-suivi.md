@@ -492,3 +492,12 @@ Une partie notée sans analyse (jouée en personne, ou analyse remise à plus ta
 - Déroulement : deux manches terminées, chacune gagnée 2 points par gnubg (4-0); une troisième manche commencée, non terminée dans le fichier
 - Estimation de l'étudiant : à faire
 - Analyse : à faire
+
+## 2026-11-09 · Analyse · 2026-11-09-gnubg-0801-gnubg.sgf
+- Variante : backgammon
+- Moteur : GNU Backgammon 1.07, 2 plis (pions et videau)
+- Indice d'erreur : global 94,8 mEMG · pions 104,6 · videau 10,2 (match : manche 1 74,2 · manche 2 115,4)
+- Estimation de l'étudiant : « je ne me souviens exactement; la deuxième partie, je pense avoir somme toute bien joué, mais j'ai peut-être fait quelques erreurs, qui m'ont coûté la partie. » · Réel : 0 de ses moments parmi les erreurs retenues (aucun moment précis nommé; la manche 2 a le taux le plus élevé)
+- Erreurs : frapper-ou-construire : manche 2, 52, 18/13 6/4* au lieu de 6/1 3/1, −0,589, et 54, bar/20 8/4* au lieu de bar/16, −0,477 (frappes sur le point 4 qui rapportent peu), et 11, bar/24 16/13 au lieu de bar/24 13/12*/11*/10, −0,574 (double frappe manquée); prime-et-ancre : manche 2, 54, 21/16 7/3 casse l'ancre au lieu de 7/2 6/2, −0,691; risque-pion-seul : manche 1, 21, 24/23 5/3 laisse un pion seul sur 2 pendant que l'adversaire est à la barre (5/2 recommandé), −0,571
+- Notions ajoutées : aucune
+- Détail : historique/2026-11-09-analyse-2026-11-09-gnubg-0801-gnubg.md
