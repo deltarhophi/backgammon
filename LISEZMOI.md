@@ -1,4 +1,4 @@
-# Backgammon · Minerva-Backgammon
+# Backgammon · Minerva-Jeux
 
 Dossier d'apprentissage du backgammon (et du tavla) de Philippe, suivi avec la méthode Minerva. Le brief du projet : https://claude.ai/artifact/KQGbQaBxBtJZMFwAdvE7pz
 
@@ -14,13 +14,13 @@ Dossier d'apprentissage du backgammon (et du tavla) de Philippe, suivi avec la m
 - **Jouer** : sur Backgammon Galaxy, puis exporter la partie dans `inbox/`. Une partie de tavla avec ta copine n'a pas de fichier : raconte-la si un point de règle t'a surpris.
 - **Étudier** : `etudier-notion`, suivi ou non d'une notion. Les coups d'ouverture se travaillent en mode Mémoriser.
 - **Vérifier** : `faire-quiz`, deux ou trois jours plus tard.
-- **Analyser une partie** : GNU Backgammon mesure chaque décision. Avant de voir l'analyse, dis d'abord où tu penses t'être trompé.
+- **Analyser une partie** : `jeu-analyser-partie`. GNU Backgammon mesure chaque décision; avant de voir l'analyse, tu dis d'abord où tu penses t'être trompé.
+- **Faire le point** : `jeu-faire-le-point` (pas `faire-le-point`, qui cacherait les notions faute de dates de séances).
 
 ## Règles propres au backgammon
 
 - Le moteur dit ce qui est vrai : aucune position, aucun meilleur coup, aucune probabilité ne vient de la mémoire de Claude.
 - Le résultat d'une partie ne prouve rien : les dés comptent. Seules les décisions sont commentées.
-- `faire-le-point` n'est pas encore adapté : sans calendrier de séances, il cacherait les notions. Ne pas l'utiliser ici pour l'instant.
 
 ## Synchronisation
 

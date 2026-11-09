@@ -1,21 +1,23 @@
-# Journal de suivi : Backgammon (Minerva-Backgammon)
+# Journal de suivi : Backgammon (Minerva-Jeux)
 
 Joueur : Philippe · pseudo Backgammon Galaxy : deltarhophi
-Enseignant : aucun · GNU Backgammon tranche les coups; bkgm.com sert de source pour les explications
-Session : autoformation, depuis le 2026-11-08
-Mode : réel
-Variantes : backgammon (Backgammon Galaxy) · tavla (en personne, sans fichier)
+Jeu : backgammon · Variantes : backgammon (Backgammon Galaxy); tavla (en personne, sans fichier)
+Moteur : GNU Backgammon · Fiche : moteurs/backgammon.md des skills jeu-*
 Niveau de départ : débutant
+Mode : réel
 Brief du projet : https://claude.ai/artifact/KQGbQaBxBtJZMFwAdvE7pz
 Détail des activités : voir le dossier `historique/`
+Gabarit : journal-gabarit.md de Minerva, version dfb9ef6 (2026-10-26)
 
 <!--
-Adaptation au backgammon (repris de Minerva, journal-gabarit.md, version dfb9ef6 du 2026-10-26)
-- Il n'y a ni cours, ni séances, ni examen. Dans « Notions du cours », la colonne « Semaine » porte le BLOC DE PRIORITÉ (1, 2, 3) et « Séance » vaut toujours 1.
-- Le Calendrier reste vide : aucune séance n'a de date.
-- Conséquence connue : `faire-le-point` (et `spi.py`) masque les notions d'une séance sans date en attendant un rappel qui ne viendra jamais. Ne pas s'en servir tel quel ici; à adapter (`bg-faire-le-point`) si le besoin se confirme.
-- Type d'entrée ajouté : « Partie » (voir « Formats d'entrée »). Une partie ne compte jamais comme réussite : le résultat dépend des dés. Seule l'erreur mesurée par GNU Backgammon sert de preuve, et seulement dans une analyse complète.
-- Pas d'unité d'effort pour une partie jouée.
+Minerva-Jeux : ce journal suit un jeu, pas un cours (règles complètes : regles-jeux.md des skills jeu-*).
+- « Semaine » = bloc de priorité (1, 2, 3…); « Séance » = 1; le Calendrier reste vide. Pas de rappel, pas d'examen, pas de carte de l'examen.
+- Aucune notion n'est masquée : il n'y a jamais de rappel à attendre. N'écris pas « sans rappel préalable ».
+- Le moteur nommé dans l'en-tête tranche : toute position, tout meilleur coup, toute évaluation lui est soumis avant d'être posé ou affirmé.
+- Une partie ne valide jamais une notion. Une notion citée dans « Erreurs » d'une entrée Analyse est erronée à cette date (règle Rouge).
+- Quiz : pas de diagnostic; variantes après tutoriel ou approfondissement; espacé = mélange des blocs, positions tirées des parties du joueur puis positions nouvelles sur le même motif.
+- Priorités : notions en cause dans les analyses récentes, puis le bloc le plus bas.
+- Statut : utiliser jeu-faire-le-point, pas faire-le-point (qui masquerait les notions faute de dates).
 -->
 
 <!--
@@ -398,21 +400,33 @@ Un **rappel global** fait pendant `preparer-examen` produit une entrée Rappel p
 - Leçons pour le prochain examen : <au plus 3>
 ```
 
-### Partie (ajout Minerva-Backgammon)
+### Partie (Minerva-Jeux, regles-jeux.md)
+
+Une partie notée sans analyse (jouée en personne, ou analyse remise à plus tard).
 
 ```
 ## AAAA-MM-JJ · Partie · <variante> contre <adversaire>
-- Variante : backgammon | tavla
-- Source : Backgammon Galaxy, match <id> | en personne
+- Variante : <variante>
+- Source : <plateforme, numéro de partie | en personne>
 - Fichier : parties/<fichier> | aucun
-- Format : <match en N points, videau limité à N | partie libre>
+- Format : <cadence, match en N points, etc.>
 - Déroulement : <une ou deux lignes, sans jugement>
-- Estimation de l'étudiant : <décisions qu'il pense avoir mal jouées, ou « à faire »>
-- Analyse : <faite (taux d'erreur …) | à faire | non prévue>
-- Notions en cause : <code : description, ou « non analysée »>
+- Estimation de l'étudiant : <moments où il pense s'être trompé, ou « à faire »>
+- Analyse : <à faire | non prévue>
 ```
 
-Le résultat de la partie n'est jamais une preuve de maîtrise. Seule une analyse complète par GNU Backgammon relie des erreurs à des notions.
+### Analyse (Minerva-Jeux, regles-jeux.md)
+
+```
+## AAAA-MM-JJ · Analyse · <fichier>
+- Variante : <variante>
+- Moteur : <moteur, réglage>
+- Indice d'erreur : <valeur et unité de la fiche; au backgammon : global, pions, videau>
+- Estimation de l'étudiant : <ses moments, tels qu'il les a dits> · Réel : <n de ses moments parmi les erreurs retenues>
+- Erreurs : <code : coup, ce qui s'est passé, coût>; <code : …>
+- Notions ajoutées : <codes, ou « aucune »>
+- Détail : historique/AAAA-MM-JJ-analyse-<fichier sans extension>.md
+```
 
 ## Entrées
 
