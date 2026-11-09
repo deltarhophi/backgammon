@@ -466,3 +466,11 @@ Une partie notée sans analyse (jouée en personne, ou analyse remise à plus ta
 - Erreurs : frapper-ou-construire : 6e coup 53, bar/22 13/8 au lieu de bar/20* 13/10* (double frappe manquée), −1,220, et 3e coup 65, 24/13 au lieu de 7/1* 6/1, −0,296; construire-points : 2e coup 51, 13/8 7/6 défait la barre faite au coup précédent et laisse deux pions seuls (24/18 recommandé), −0,401; prime-et-ancre : 5e coup 62, 24/22 13/7 au lieu de 24/18 20/18 (ancre sur la barre adverse), −0,163
 - Notions ajoutées : aucune
 - Détail : historique/2026-11-08-analyse-2026-11-08-galaxy-50409658-ww493535.md
+
+## 2026-11-08 · Approfondir · frapper-ou-construire
+- Conditions : normales
+- Approfondi : frapper-ou-construire
+- Encore flou : rien
+- Vérification : faite
+- Questions défectueuses : aucune
+- Détail : historique/2026-11-08-approfondir-frapper-ou-construire.md
