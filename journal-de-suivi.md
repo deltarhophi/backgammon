@@ -457,3 +457,12 @@ Une partie notée sans analyse (jouée en personne, ou analyse remise à plus ta
 - Estimation de l'étudiant : à faire (avait-il l'intention de refuser?)
 - Analyse : à faire, décision de videau seulement
 - Notions en cause : non analysée
+
+## 2026-11-08 · Analyse · 2026-11-08-galaxy-50409658-ww493535.mat
+- Variante : backgammon
+- Moteur : GNU Backgammon 1.07, 2 plis (pions et videau)
+- Indice d'erreur : global 109,6 mEMG · pions 173,4 · videau 0,1
+- Estimation de l'étudiant : « je ne savais même ce qu'était le concept de doubler. Je pense avoir joué au tavla et ce concept ne semble pas exister. » · Réel : 0 de ses moments parmi les erreurs retenues (aucun moment nommé; le refus du double était correct; la partie est du backgammon, pas du tavla)
+- Erreurs : frapper-ou-construire : 6e coup 53, bar/22 13/8 au lieu de bar/20* 13/10* (double frappe manquée), −1,220, et 3e coup 65, 24/13 au lieu de 7/1* 6/1, −0,296; construire-points : 2e coup 51, 13/8 7/6 défait la barre faite au coup précédent et laisse deux pions seuls (24/18 recommandé), −0,401; prime-et-ancre : 5e coup 62, 24/22 13/7 au lieu de 24/18 20/18 (ancre sur la barre adverse), −0,163
+- Notions ajoutées : aucune
+- Détail : historique/2026-11-08-analyse-2026-11-08-galaxy-50409658-ww493535.md
