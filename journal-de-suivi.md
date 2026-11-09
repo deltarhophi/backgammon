@@ -474,3 +474,12 @@ Une partie notée sans analyse (jouée en personne, ou analyse remise à plus ta
 - Vérification : faite
 - Questions défectueuses : aucune
 - Détail : historique/2026-11-08-approfondir-frapper-ou-construire.md
+
+## 2026-11-08 · Tutoriel · frapper-ou-construire (Semaine 2, séance 1)
+- Conditions : normales
+- Étapes réussies du premier coup : repérer les pions frappables; risque et temps de la frappe (après relance sur le pourquoi)
+- Étapes reprises : coût de la frappe : confond chemin restant et chemin perdu (réussie au remplacement); comparer frapper et construire : bon choix, justification complétée (les deux coups avancent de 6)
+- Exemple final seul : non réussi
+- À revoir : renoncer à frapper quand la frappe fait peu reculer l'adversaire et expose un pion seul au fond de son jan; vérifier qu'un coup est jouable avec les dés (24/18 proposé avec 4-2)
+- Questions défectueuses : aucune
+- Détail : historique/2026-11-08-tutoriel-frapper-ou-construire.md
