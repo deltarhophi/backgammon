@@ -536,3 +536,12 @@ Une partie notée sans analyse (jouée en personne, ou analyse remise à plus ta
 - Vérification : faite
 - Questions défectueuses : aucune
 - Détail : historique/2026-11-10-approfondir-frapper-ou-construire.md
+
+## 2026-11-10 · Analyse · 2026-11-10-gnubg-0009-gnubg.sgf
+- Variante : backgammon
+- Moteur : GNU Backgammon 1.07, 2 plis (pions et videau)
+- Indice d'erreur : global 62,5 mEMG · pions 65,5 · videau 0,0 (manche 1 seulement, 23 coups)
+- Estimation de l'étudiant : « je ne m'en souviens pas » · Réel : 0 des 2 erreurs retenues (aucun moment nommé)
+- Erreurs : frapper-ou-construire : 61, 8/2* 3/2 (frappe et point 2) au lieu de 11/5 6/5 (point 5), −0,979; construire-points : 42, 13/7 au lieu de 8/4 6/4, laisse un pion seul à 2 cases du pion adverse sur le point 5, −0,281
+- Notions ajoutées : aucune
+- Détail : historique/2026-11-10-analyse-2026-11-10-gnubg-0009-gnubg.md
