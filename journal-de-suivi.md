@@ -519,3 +519,20 @@ Une partie notée sans analyse (jouée en personne, ou analyse remise à plus ta
 - Erreurs : frapper-ou-construire : manche 2, 63, 18/9 au lieu de 10/4* 7/4 (frapper et faire le point 4), −1,024, et 55, 13/3(2) au lieu de 13/3 9/4* 8/3, −0,178; construire-points : manche 1, 3e coup 31, 6/2* au lieu de 8/5 6/5, −0,361; frapper-ou-construire : manche 2, 44, 22/18(4) au lieu de 22/10* 22/18 avec 36 points de retard, −0,333; prime-et-ancre : manche 1, 63, 20/11 casse l'ancre sur le point 5 adverse au lieu de 7/1 6/3, −0,159
 - Notions ajoutées : aucune
 - Détail : historique/2026-11-09-analyse-2026-11-09-gnubg-2326-gnubg.md
+
+## 2026-11-10 · Partie · backgammon contre gnubg
+- Variante : backgammon
+- Source : GNU Backgammon 1.08.003 installé sur l'ordinateur du joueur, match commencé le 2026-11-10 à 0 h 09
+- Fichier : parties/2026-11-10-gnubg-0009-gnubg.sgf
+- Format : match en 7 points
+- Déroulement : une manche terminée; double de gnubg au 6e tour, accepté, manche perdue 2 points; une deuxième manche commencée, sans coup joué dans le fichier
+- Estimation de l'étudiant : à faire
+- Analyse : à faire
+
+## 2026-11-10 · Approfondir · frapper-ou-construire
+- Conditions : normales
+- Approfondi : frapper-ou-construire
+- Encore flou : rien
+- Vérification : faite
+- Questions défectueuses : aucune
+- Détail : historique/2026-11-10-approfondir-frapper-ou-construire.md
