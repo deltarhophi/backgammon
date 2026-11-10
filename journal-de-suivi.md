@@ -501,3 +501,21 @@ Une partie notée sans analyse (jouée en personne, ou analyse remise à plus ta
 - Erreurs : frapper-ou-construire : manche 2, 52, 18/13 6/4* au lieu de 6/1 3/1, −0,589, et 54, bar/20 8/4* au lieu de bar/16, −0,477 (frappes sur le point 4 qui rapportent peu), et 11, bar/24 16/13 au lieu de bar/24 13/12*/11*/10, −0,574 (double frappe manquée); prime-et-ancre : manche 2, 54, 21/16 7/3 casse l'ancre au lieu de 7/2 6/2, −0,691; risque-pion-seul : manche 1, 21, 24/23 5/3 laisse un pion seul sur 2 pendant que l'adversaire est à la barre (5/2 recommandé), −0,571
 - Notions ajoutées : aucune
 - Détail : historique/2026-11-09-analyse-2026-11-09-gnubg-0801-gnubg.md
+
+## 2026-11-09 · Partie · backgammon contre gnubg
+- Variante : backgammon
+- Source : GNU Backgammon 1.08.003 installé sur l'ordinateur du joueur, match commencé le 2026-11-09 à 23 h 26
+- Fichier : parties/2026-11-09-gnubg-2326-gnubg.sgf
+- Format : match en 7 points
+- Déroulement : deux manches; manche 1 : double de gnubg au 6e coup, accepté, manche perdue 2 points; manche 2 : double de gnubg au 14e coup, accepté, la manche se termine par un abandon à 6 points; match perdu 0-8
+- Estimation de l'étudiant : à faire
+- Analyse : à faire
+
+## 2026-11-09 · Analyse · 2026-11-09-gnubg-2326-gnubg.sgf
+- Variante : backgammon
+- Moteur : GNU Backgammon 1.07, 2 plis (pions et videau)
+- Indice d'erreur : global 62,5 mEMG · pions 74,4 · videau 0,0
+- Estimation de l'étudiant : « je pense que je m'améliore un peu, mais je n'arrive pas à sortir du jan externe. l'adversaire semble frapper ou construire au bon moment, ce qui n'est pas mon cas. » · Réel : aucun coup précis nommé; le thème frapper ou construire couvre 2 des 4 erreurs retenues; l'ouverture 31 et l'ancre cassée n'ont pas été vues (sortir trop tôt plutôt que ne pas sortir)
+- Erreurs : frapper-ou-construire : manche 2, 63, 18/9 au lieu de 10/4* 7/4 (frapper et faire le point 4), −1,024, et 55, 13/3(2) au lieu de 13/3 9/4* 8/3, −0,178; construire-points : manche 1, 3e coup 31, 6/2* au lieu de 8/5 6/5, −0,361; frapper-ou-construire : manche 2, 44, 22/18(4) au lieu de 22/10* 22/18 avec 36 points de retard, −0,333; prime-et-ancre : manche 1, 63, 20/11 casse l'ancre sur le point 5 adverse au lieu de 7/1 6/3, −0,159
+- Notions ajoutées : aucune
+- Détail : historique/2026-11-09-analyse-2026-11-09-gnubg-2326-gnubg.md
