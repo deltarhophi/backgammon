@@ -545,3 +545,12 @@ Une partie notée sans analyse (jouée en personne, ou analyse remise à plus ta
 - Erreurs : frapper-ou-construire : 61, 8/2* 3/2 (frappe et point 2) au lieu de 11/5 6/5 (point 5), −0,979; construire-points : 42, 13/7 au lieu de 8/4 6/4, laisse un pion seul à 2 cases du pion adverse sur le point 5, −0,281
 - Notions ajoutées : aucune
 - Détail : historique/2026-11-10-analyse-2026-11-10-gnubg-0009-gnubg.md
+
+## 2026-11-10 · Tutoriel · construire-points (Semaine 1, séance 1)
+- Conditions : normales
+- Étapes réussies du premier coup : faire un point maintenant plutôt que préparer (4-2); un pion seul n'est pas un point (5-3, classement identique à gnubg)
+- Étapes reprises : aucune; étape 1 incomplète (lancers qui font le point 5 : doubles 1-1 et 3-3 oubliés, complétés)
+- Exemple final seul : réussi
+- À revoir : repérer les doubles qui font un point
+- Questions défectueuses : aucune
+- Détail : historique/2026-11-10-tutoriel-construire-points.md
