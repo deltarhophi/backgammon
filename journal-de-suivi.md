@@ -590,3 +590,12 @@ Une partie notée sans analyse (jouée en personne, ou analyse remise à plus ta
 - Déroulement : une manche terminée; double de gnubg à son 8e tour, accepté, manche perdue 2 points; une deuxième manche commencée, sans coup joué dans le fichier
 - Estimation de l'étudiant : à faire
 - Analyse : à faire
+
+## 2026-11-11 · Analyse · 2026-11-11-gnubg-0033-gnubg.sgf
+- Variante : backgammon
+- Moteur : GNU Backgammon 1.07, 2 plis (pions et videau)
+- Indice d'erreur : global 12,9 mEMG · pions 13,4 · videau 4,3 (manche 1, 22 coups)
+- Estimation de l'étudiant : « Je ne m'en souviens plus » · Réel : 0 des 2 erreurs retenues (aucun moment nommé)
+- Erreurs : frapper-ou-construire : 41, 10/6 8/7 au lieu de 8/3* (dernier pion arrière adverse, 10 points de retard), −0,117; construire-points : 41, 8/4 7/6 au lieu de 6/5 6/2 (remplir le jan en attendant un tir), −0,073
+- Notions ajoutées : aucune
+- Détail : historique/2026-11-11-analyse-2026-11-11-gnubg-0033-gnubg.md
