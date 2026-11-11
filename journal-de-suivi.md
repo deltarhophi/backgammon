@@ -554,3 +554,21 @@ Une partie notée sans analyse (jouée en personne, ou analyse remise à plus ta
 - À revoir : repérer les doubles qui font un point
 - Questions défectueuses : aucune
 - Détail : historique/2026-11-10-tutoriel-construire-points.md
+
+## 2026-11-10 · Partie · backgammon contre gnubg
+- Variante : backgammon
+- Source : GNU Backgammon 1.08.003 installé sur l'ordinateur du joueur, match commencé le 2026-11-10 à 23 h 42
+- Fichier : parties/2026-11-10-gnubg-2342-gnubg.sgf
+- Format : match en 7 points
+- Déroulement : une manche terminée; double de gnubg à son 5e tour, accepté, manche perdue 2 points; une deuxième manche commencée (un coup)
+- Estimation de l'étudiant : à faire
+- Analyse : à faire
+
+## 2026-11-11 · Analyse · 2026-11-10-gnubg-2342-gnubg.sgf
+- Variante : backgammon
+- Moteur : GNU Backgammon 1.07, 2 plis (pions et videau)
+- Indice d'erreur : global 50,1 mEMG · pions 52,1 · videau 0,0 (manche 1, 26 coups)
+- Estimation de l'étudiant : premier coup (alerte vue dans gnubg); « j'ai déjà oublié » pour le reste · Réel : 1 des 4 erreurs retenues nommée, grâce à l'alerte de gnubg
+- Erreurs : construire-points : 53, 13/10 13/8 au lieu de 8/3 6/3, −0,462, et 22, 23/21 9/7*(2) 8/6 au lieu de 9/7*(2) 6/4(2), −0,102; prime-et-ancre : 66, 22/16(4) abandonne l'ancre avec 54 points de retard au lieu de 22/10(2), −0,210; frapper-ou-construire : 21, 24/23 24/22 au lieu de 13/11 6/5*, −0,201
+- Notions ajoutées : aucune
+- Détail : historique/2026-11-11-analyse-2026-11-10-gnubg-2342-gnubg.md
