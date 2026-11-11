@@ -572,3 +572,21 @@ Une partie notée sans analyse (jouée en personne, ou analyse remise à plus ta
 - Erreurs : construire-points : 53, 13/10 13/8 au lieu de 8/3 6/3, −0,462, et 22, 23/21 9/7*(2) 8/6 au lieu de 9/7*(2) 6/4(2), −0,102; prime-et-ancre : 66, 22/16(4) abandonne l'ancre avec 54 points de retard au lieu de 22/10(2), −0,210; frapper-ou-construire : 21, 24/23 24/22 au lieu de 13/11 6/5*, −0,201
 - Notions ajoutées : aucune
 - Détail : historique/2026-11-11-analyse-2026-11-10-gnubg-2342-gnubg.md
+
+## 2026-11-10 · Partie · backgammon contre gnubg (suite du match de 0 h 09)
+- Variante : backgammon
+- Source : GNU Backgammon 1.08.003 installé sur l'ordinateur du joueur; nouvel export du match commencé le 2026-11-10 à 0 h 09
+- Fichier : parties/2026-11-10-gnubg-0009-gnubg-b.sgf
+- Format : match en 7 points
+- Déroulement : manche 1 identique à parties/2026-11-10-gnubg-0009-gnubg.sgf (déjà analysée); manche 2 commencée, trois coups de chaque joueur, non terminée
+- Estimation de l'étudiant : à faire
+- Analyse : à faire (manche 2 seulement)
+
+## 2026-11-11 · Partie · backgammon contre gnubg
+- Variante : backgammon
+- Source : GNU Backgammon 1.08.003 installé sur l'ordinateur du joueur, match commencé le 2026-11-11 à 0 h 33
+- Fichier : parties/2026-11-11-gnubg-0033-gnubg.sgf
+- Format : match en 7 points
+- Déroulement : une manche terminée; double de gnubg à son 8e tour, accepté, manche perdue 2 points; une deuxième manche commencée, sans coup joué dans le fichier
+- Estimation de l'étudiant : à faire
+- Analyse : à faire
