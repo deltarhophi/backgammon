@@ -643,3 +643,24 @@ Une partie notée sans analyse (jouée en personne, ou analyse remise à plus ta
 - Erreurs : frapper-ou-construire : manche 1, 63, 24/18 10/7 au lieu de 9/3* 6/3 (frapper et faire le point face à deux pions adverses dans son jan), −1,024; construire-points : manche 1, ouverture 31, 24/23 13/10 au lieu de 8/5 6/5, −0,230; sortie-sans-contact : manche 3, 11, 4/1 3/2 au lieu de 5/4 3/off (aucun pion sorti), −0,220; prime-et-ancre : manche 2, 65, 24/13 au lieu de 24/18 23/18 (réunir les pions arrière sur la barre adverse), −0,177
 - Notions ajoutées : aucune
 - Détail : historique/2026-11-13-analyse-2026-11-12-gnubg-2321-gnubg.md
+
+## 2026-11-13 · Approfondir · prime-et-ancre
+- Conditions : normales (avant le quiz variantes qui porte aussi sur cette notion)
+- Approfondi : prime-et-ancre (quand sortir ses pions arrière)
+- Encore flou : courir quand le chemin est libre en début de partie (6-5 : 13/8 13/7 au lieu de 22/11)
+- Vérification : faite (une question sur deux réussie; reformulation non faite)
+- Questions défectueuses : aucune (position irréaliste signalée par l'étudiant, verdicts valables)
+- Détail : historique/2026-11-13-approfondir-prime-et-ancre.md
+
+## 2026-11-13 · Mémoriser · coups-ouverture (Semaine 1, séance 1)
+- Conditions : normales
+- Cartes : 6 (dont 1 d'application)
+- Acquises en séance : aucune
+- Non acquises en fin de séance : aucune
+- À revoir : coups-ouverture (6-1 à 2 réussites, dernière réponse juste; carte d'application à 1 réussite)
+- Cartes sautées : aucune
+- Erreurs avec assurance : aucune
+- Carte d'application : réussie
+- Prochains rappels : 2026-11-15, 2026-11-20
+- Questions défectueuses : aucune
+- Détail : historique/2026-11-13-memoriser-coups-ouverture.md
