@@ -625,3 +625,12 @@ Une partie notée sans analyse (jouée en personne, ou analyse remise à plus ta
 - Déroulement : trois manches; manche 1 : double de gnubg à son 4e tour, accepté, perdue 2 points; manche 2 : double à son 15e tour, accepté, perdue 2 points; manche 3 : double à son 14e tour, accepté, terminée par un abandon à 6 points; match perdu 0-10
 - Estimation de l'étudiant : à faire
 - Analyse : à faire
+
+## 2026-11-12 · Partie · backgammon contre gnubg
+- Variante : backgammon
+- Source : GNU Backgammon 1.08.003 installé sur l'ordinateur du joueur, match commencé le 2026-11-12 à 23 h 21
+- Fichier : parties/2026-11-12-gnubg-2321-gnubg.sgf
+- Format : match en 7 points
+- Déroulement : trois manches; manche 1 : double de gnubg à son 3e tour, accepté, terminée par un abandon à 4 points; manche 2 : double à son 11e tour, accepté, perdue 2 points; manche 3 (Crawford, sans videau) perdue 1 point; match perdu 0-7
+- Estimation de l'étudiant : à faire
+- Analyse : à faire
