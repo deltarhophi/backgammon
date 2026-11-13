@@ -634,3 +634,12 @@ Une partie notée sans analyse (jouée en personne, ou analyse remise à plus ta
 - Déroulement : trois manches; manche 1 : double de gnubg à son 3e tour, accepté, terminée par un abandon à 4 points; manche 2 : double à son 11e tour, accepté, perdue 2 points; manche 3 (Crawford, sans videau) perdue 1 point; match perdu 0-7
 - Estimation de l'étudiant : à faire
 - Analyse : à faire
+
+## 2026-11-13 · Analyse · 2026-11-12-gnubg-2321-gnubg.sgf
+- Variante : backgammon
+- Moteur : GNU Backgammon 1.07, 2 plis (pions et videau)
+- Indice d'erreur : global 54,2 mEMG · pions 60,5 · videau 7,5 (3 manches, 49 coups)
+- Estimation de l'étudiant : « J'ai l'impression que j'ai passé proche de gagner une manche » · Réel : aucun moment nommé; 0 des 4 erreurs retenues vue
+- Erreurs : frapper-ou-construire : manche 1, 63, 24/18 10/7 au lieu de 9/3* 6/3 (frapper et faire le point face à deux pions adverses dans son jan), −1,024; construire-points : manche 1, ouverture 31, 24/23 13/10 au lieu de 8/5 6/5, −0,230; sortie-sans-contact : manche 3, 11, 4/1 3/2 au lieu de 5/4 3/off (aucun pion sorti), −0,220; prime-et-ancre : manche 2, 65, 24/13 au lieu de 24/18 23/18 (réunir les pions arrière sur la barre adverse), −0,177
+- Notions ajoutées : aucune
+- Détail : historique/2026-11-13-analyse-2026-11-12-gnubg-2321-gnubg.md
