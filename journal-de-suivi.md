@@ -599,3 +599,20 @@ Une partie notée sans analyse (jouée en personne, ou analyse remise à plus ta
 - Erreurs : frapper-ou-construire : 41, 10/6 8/7 au lieu de 8/3* (dernier pion arrière adverse, 10 points de retard), −0,117; construire-points : 41, 8/4 7/6 au lieu de 6/5 6/2 (remplir le jan en attendant un tir), −0,073
 - Notions ajoutées : aucune
 - Détail : historique/2026-11-11-analyse-2026-11-11-gnubg-0033-gnubg.md
+
+## 2026-11-12 · Tutoriel · prime-et-ancre (Semaine 2, séance 1)
+- Conditions : normales
+- Étapes réussies du premier coup : reconnaître une ancre et sa valeur (justification complétée); faire une ancre avancée en réunissant ses pions arrière
+- Étapes reprises : garder l'ancre quand on est derrière (coup illégal 13/7 8/7, puis 13/8 13/7 juste; raison contre la sortie complétée)
+- Exemple final seul : réussi
+- À revoir : vérifier qu'un coup joue bien les deux dés; bâtir une prime (non travaillé dans ce tutoriel)
+- Questions défectueuses : aucune
+- Détail : historique/2026-11-12-tutoriel-prime-et-ancre.md
+
+## 2026-11-12 · Approfondir · risque-pion-seul
+- Conditions : normales
+- Approfondi : risque-pion-seul
+- Encore flou : rien
+- Vérification : faite
+- Questions défectueuses : aucune
+- Détail : historique/2026-11-12-approfondir-risque-pion-seul.md
