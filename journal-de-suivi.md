@@ -664,3 +664,16 @@ Une partie notée sans analyse (jouée en personne, ou analyse remise à plus ta
 - Prochains rappels : 2026-11-15, 2026-11-20
 - Questions défectueuses : aucune
 - Détail : historique/2026-11-13-memoriser-coups-ouverture.md
+
+## 2026-11-13 · Mémoriser · coups-ouverture (Semaine 1, séance 1)
+- Conditions : normales (deuxième séance du jour sur cette notion : ouvertures 2-1, 4-1, 5-1, 3-2, 4-3)
+- Cartes : 6 (dont 1 d'application)
+- Acquises en séance : aucune
+- Non acquises en fin de séance : coups-ouverture (4-1 à 2 réussites, dernière réponse fausse : 13/9 24/21)
+- À revoir : rien de plus
+- Cartes sautées : aucune
+- Erreurs avec assurance : aucune
+- Carte d'application : réussie (au 2e essai; 1er essai illégal)
+- Prochains rappels : 2026-11-15, 2026-11-20
+- Questions défectueuses : aucune (repère « 1 ou 3 » trop strict, corrigé en séance)
+- Détail : historique/2026-11-13-memoriser-coups-ouverture-2.md
