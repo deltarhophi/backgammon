@@ -713,3 +713,12 @@ Une partie notée sans analyse (jouée en personne, ou analyse remise à plus ta
 - À revoir : placer deux constructeurs au-dessus de la prime plutôt qu'avancer un pion arrière
 - Questions défectueuses : aucune
 - Détail : historique/2026-11-13-tutoriel-prime-et-ancre-prime.md
+
+## 2026-11-14 · Analyse · 2026-11-13-gnubg-2241-gnubg-complet.sgf
+- Variante : backgammon
+- Moteur : GNU Backgammon 1.07, 2 plis (pions et videau)
+- Indice d'erreur : global 36,3 mEMG · pions 39,7 · videau 16,5 (4 manches, 102 coups; match gagné 8-4)
+- Estimation de l'étudiant : « je ne m'en souviens pas... d'ailleurs je n'ai pas compris comment s'est terminé la manche 2. » · Réel : aucun moment nommé; 0 des 4 erreurs retenues vue
+- Erreurs : prime-et-ancre : manche 1, 41, 18/14 6/5 défait le point sur la barre adverse au lieu de 6/2 5/4, −0,931; sortie-sans-contact : manche 3, 63, 6/off 3/off laisse un pion seul face à un pion adverse au lieu de 6/3 6/off, −0,615; valeur-gammon : manche 3, 43, 31, 53, frappe du second pion (4/1*, 6/1*) manquée trois fois alors que la position est trop bonne pour doubler, −0,239, −0,260, −0,232; quand-doubler : manche 3, 42, double manqué (Double, pass), −0,184
+- Notions ajoutées : aucune (proposition en attente : règles du match et des abandons)
+- Détail : historique/2026-11-14-analyse-2026-11-13-gnubg-2241-gnubg-complet.md
