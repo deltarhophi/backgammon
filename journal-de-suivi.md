@@ -98,6 +98,7 @@ Chaque notion est rattachée à la séance où elle est enseignée (`k` = 1 s'il
 | accepter-refuser | 3 | 1 | Accepter ou refuser | accepter ou refuser un double selon la règle des 25 % |
 | quand-doubler | 3 | 1 | Quand doubler | reconnaître une position où doubler est correct |
 | valeur-gammon | 3 | 1 | Valeur du gammon | tenir compte du risque de gammon dans une décision |
+| regles-match | 3 | 1 | Règles du match et des abandons | dire ce que vaut un abandon simple, gammon ou backgammon, quand une manche vaut double ou triple, et ce que change la règle Crawford dans un match |
 
 ## Notions retirées
 
@@ -117,6 +118,8 @@ Autres termes qui désignent une notion existante. Un synonyme ne désigne qu'un
 | opening moves | coups-ouverture |
 | pip count | compte-des-points |
 | take or drop | accepter-refuser |
+| resign | regles-match |
+| règle Crawford | regles-match |
 
 ## Calendrier
 
@@ -722,3 +725,8 @@ Une partie notée sans analyse (jouée en personne, ou analyse remise à plus ta
 - Erreurs : prime-et-ancre : manche 1, 41, 18/14 6/5 défait le point sur la barre adverse au lieu de 6/2 5/4, −0,931; sortie-sans-contact : manche 3, 63, 6/off 3/off laisse un pion seul face à un pion adverse au lieu de 6/3 6/off, −0,615; valeur-gammon : manche 3, 43, 31, 53, frappe du second pion (4/1*, 6/1*) manquée trois fois alors que la position est trop bonne pour doubler, −0,239, −0,260, −0,232; quand-doubler : manche 3, 42, double manqué (Double, pass), −0,184
 - Notions ajoutées : aucune (proposition en attente : règles du match et des abandons)
 - Détail : historique/2026-11-14-analyse-2026-11-13-gnubg-2241-gnubg-complet.md
+
+## 2026-11-14 · Notions · ajout
+- Notion ajoutée : `regles-match` (bloc 3), à la demande de l'étudiant après l'analyse du 2026-11-14
+- Synonymes ajoutés : resign → `regles-match`; règle Crawford → `regles-match`
+- Scan : aucune notion existante ne couvre ces règles; la comparaison avec le tavla (pas de videau, mars à 2 points, pas de backgammon) relève de `differences-tavla`
