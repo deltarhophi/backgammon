@@ -677,3 +677,21 @@ Une partie notée sans analyse (jouée en personne, ou analyse remise à plus ta
 - Prochains rappels : 2026-11-15, 2026-11-20
 - Questions défectueuses : aucune (repère « 1 ou 3 » trop strict, corrigé en séance)
 - Détail : historique/2026-11-13-memoriser-coups-ouverture-2.md
+
+## 2026-11-13 · Tutoriel · prime-et-ancre (Semaine 2, séance 1)
+- Conditions : normales (interrompu : bâtir une prime, étapes 3 et 4 non faites)
+- Étapes réussies du premier coup : ne pas casser sa prime (5-1)
+- Étapes reprises : lire une prime et compter les sorties (lancers complétés)
+- Exemple final seul : non fait (séance interrompue)
+- À revoir : préparer l'allongement de la prime (étape 3, posée sans réponse); exemple final
+- Questions défectueuses : aucune
+- Détail : historique/2026-11-13-tutoriel-prime-et-ancre-prime.md
+
+## 2026-11-13 · Partie · backgammon contre gnubg
+- Variante : backgammon
+- Source : GNU Backgammon 1.08.003 installé sur l'ordinateur du joueur, match commencé le 2026-11-13 à 22 h 41
+- Fichier : parties/2026-11-13-gnubg-2241-gnubg.sgf
+- Format : match en 7 points
+- Déroulement : manche 1 : double de gnubg à son 7e tour, accepté, perdue 4 points; manche 2 : double de gnubg à son 7e tour, accepté, redouble du joueur à 4 à son 16e tour, accepté par gnubg, gagnée 4 points; manche 3 (sans videau) gagnée 2 points; manche 4 (Crawford) commencée, un coup de chaque côté; score 6-4 pour le joueur, match non terminé dans le fichier
+- Estimation de l'étudiant : à faire
+- Analyse : à faire
