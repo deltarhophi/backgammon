@@ -695,3 +695,12 @@ Une partie notée sans analyse (jouée en personne, ou analyse remise à plus ta
 - Déroulement : manche 1 : double de gnubg à son 7e tour, accepté, perdue 4 points; manche 2 : double de gnubg à son 7e tour, accepté, redouble du joueur à 4 à son 16e tour, accepté par gnubg, gagnée 4 points; manche 3 (sans videau) gagnée 2 points; manche 4 (Crawford) commencée, un coup de chaque côté; score 6-4 pour le joueur, match non terminé dans le fichier
 - Estimation de l'étudiant : à faire
 - Analyse : à faire
+
+## 2026-11-13 · Partie · backgammon contre gnubg (match complet)
+- Variante : backgammon
+- Source : GNU Backgammon 1.08.003 installé sur l'ordinateur du joueur; nouvel export du match commencé le 2026-11-13 à 22 h 41, avec la manche 4
+- Fichier : parties/2026-11-13-gnubg-2241-gnubg-complet.sgf (remplace parties/2026-11-13-gnubg-2241-gnubg.sgf pour l'analyse)
+- Format : match en 7 points
+- Déroulement : manches 1 à 3 identiques au premier export; manche 4 (Crawford, sans videau) gagnée 2 points par abandon de gnubg; match gagné 8-4 par le joueur (premier match gagné)
+- Estimation de l'étudiant : à faire
+- Analyse : à faire
