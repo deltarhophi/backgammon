@@ -59,3 +59,21 @@ Question : Même position, tu as 5-2. Écris ton coup complet et justifie.
 Réponse attendue : 13/11 13/8 (+0,589) : deux constructeurs au-dessus de la prime, sans la toucher. 13/8 6/4 (−0,144) empile; 13/6 (−0,159) n'ajoute rien devant.
 Erreurs probables : 13/8 6/4 ou 13/6.
 Devinable? En partie (même idée que Q3). Compensé par : coup complet exigé. · Juste? gnubg. · Relecture : ok, compensé par : coup complet exigé
+
+## Reprise · 2026-11-13, 23 h 08 (après la fin du match)
+
+## Question 3 (étape 3)
+Réponse de l'étudiant : « 13/9 13/8  c'est une base pour construire ,mais 8 est vulnérable / 13/4  4 était déjà fait / 7/2 6/2  7 devient vulnérable »
+Verdict : maîtrisé (ordre identique à gnubg)
+Commentaire : nuance ajoutée : le constructeur sur 8 n'est atteignable que par des pions qui ont d'abord franchi la prime.
+Question défectueuse : non
+
+## Question 4 (exemple final)
+Réponse de l'étudiant : « 13/8 24/22 je commence à travailler ma prime et je commence à sortir mes pièces arrières »
+Verdict : incomplet (2e choix de gnubg, +0,521 contre +0,589 pour 13/11 13/8, −0,068)
+Commentaire : un constructeur placé; le second (13/11) double les lancers qui font le point 8.
+Question défectueuse : non
+
+## Résumé de l'étudiant (avant complément)
+« on n'essaie de ne pas empiler plus de deux pions par point.  on n'essaie de ne pas défaire la prime. »
+Complété par : des points consécutifs; compter les sorties de l'adversaire; placer deux constructeurs juste au-dessus de la prime (8 à 11), peu exposés tant que l'adversaire est derrière; un pion de trop sert de rechange pour jouer sans casser.

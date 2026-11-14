@@ -704,3 +704,12 @@ Une partie notée sans analyse (jouée en personne, ou analyse remise à plus ta
 - Déroulement : manches 1 à 3 identiques au premier export; manche 4 (Crawford, sans videau) gagnée 2 points par abandon de gnubg; match gagné 8-4 par le joueur (premier match gagné)
 - Estimation de l'étudiant : à faire
 - Analyse : à faire
+
+## 2026-11-13 · Tutoriel · prime-et-ancre (Semaine 2, séance 1)
+- Conditions : normales (reprise du tutoriel interrompu « bâtir une prime », étapes 3 et 4)
+- Étapes réussies du premier coup : préparer l'allongement de la prime (5-4, ordre identique à gnubg)
+- Étapes reprises : aucune
+- Exemple final seul : non réussi (2e choix de gnubg : 13/8 24/22 au lieu de 13/11 13/8, −0,068)
+- À revoir : placer deux constructeurs au-dessus de la prime plutôt qu'avancer un pion arrière
+- Questions défectueuses : aucune
+- Détail : historique/2026-11-13-tutoriel-prime-et-ancre-prime.md
