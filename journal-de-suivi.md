@@ -739,3 +739,21 @@ Une partie notée sans analyse (jouée en personne, ou analyse remise à plus ta
 - À revoir : avec un double, chercher deux paires de pions à un seul déplacement chacune
 - Questions défectueuses : aucune
 - Détail : historique/2026-11-14-tutoriel-coups-ouverture-doubles.md
+
+## 2026-11-16 · Partie · backgammon contre gnubg
+- Variante : backgammon
+- Source : GNU Backgammon 1.08.003 installé sur l'ordinateur du joueur, match commencé le 2026-11-16 à 23 h 05
+- Fichier : parties/2026-11-16-gnubg-2305-gnubg.sgf
+- Format : match en 7 points
+- Déroulement : deux manches; manche 1 : double de gnubg à son 16e tour, accepté, terminée par un abandon à 4 points; manche 2 : double de gnubg à son 11e tour, accepté, terminée par un abandon à 4 points; match perdu 0-8
+- Estimation de l'étudiant : à faire
+- Analyse : à faire
+
+## 2026-11-16 · Analyse · 2026-11-16-gnubg-2305-gnubg.sgf
+- Variante : backgammon
+- Moteur : GNU Backgammon 1.07, 2 plis (pions et videau)
+- Indice d'erreur : global 135,8 mEMG · pions 153,4 · videau 101,5 (2 manches, 47 coups)
+- Estimation de l'étudiant : « je trouve que je construit mal mon jan. alors que gnubg semble avoir facilement 2x 6 points » · Réel : 1 des 4 erreurs retenues (construire-points); doubles acceptés, frappes manquées et pion arrière laissé seul non vus
+- Erreurs : accepter-refuser : manche 1, double accepté au lieu de refusé (Double, pass), −0,481, et manche 2, double accepté alors que gnubg était trop fort pour doubler (Too good, pass), −0,850; frapper-ou-construire : manche 1, 55, 13/3(2) au lieu de 23/13 7/2*(2), −0,965, et 52, 9/4* 6/4 au lieu de 9/4*/2* (double frappe), −0,749, et manche 2, 51, 23/18 13/12 au lieu de 23/18 6/5*, −0,507; prime-et-ancre : manche 2, 65, 23/12 laisse un pion seul derrière la prime au lieu de 24/18 23/18, −0,321; construire-points : manche 1, 31, 13/9 au lieu de 8/7 8/5, −0,183, et manche 2, 43, 11/4 au lieu de 11/7 6/3, −0,189
+- Notions ajoutées : aucune
+- Détail : historique/2026-11-16-analyse-2026-11-16-gnubg-2305-gnubg.md
