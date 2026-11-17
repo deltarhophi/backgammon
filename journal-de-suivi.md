@@ -730,3 +730,12 @@ Une partie notée sans analyse (jouée en personne, ou analyse remise à plus ta
 - Notion ajoutée : `regles-match` (bloc 3), à la demande de l'étudiant après l'analyse du 2026-11-14
 - Synonymes ajoutés : resign → `regles-match`; règle Crawford → `regles-match`
 - Scan : aucune notion existante ne couvre ces règles; la comparaison avec le tavla (pas de videau, mars à 2 points, pas de backgammon) relève de `differences-tavla`
+
+## 2026-11-14 · Tutoriel · coups-ouverture (Semaine 1, séance 1)
+- Conditions : normales (doubles au premier coup, cas du tavla; résumé du 2026-11-16)
+- Étapes réussies du premier coup : les deux barres et le cas du 5-5
+- Étapes reprises : un double = deux points (3-3, erronée); l'ancre avancée (4-4, erronée)
+- Exemple final seul : non réussi (2-2 : 13/9(2) au lieu de 13/11(2) 6/4(2))
+- À revoir : avec un double, chercher deux paires de pions à un seul déplacement chacune
+- Questions défectueuses : aucune
+- Détail : historique/2026-11-14-tutoriel-coups-ouverture-doubles.md
