@@ -757,3 +757,12 @@ Une partie notée sans analyse (jouée en personne, ou analyse remise à plus ta
 - Erreurs : accepter-refuser : manche 1, double accepté au lieu de refusé (Double, pass), −0,481, et manche 2, double accepté alors que gnubg était trop fort pour doubler (Too good, pass), −0,850; frapper-ou-construire : manche 1, 55, 13/3(2) au lieu de 23/13 7/2*(2), −0,965, et 52, 9/4* 6/4 au lieu de 9/4*/2* (double frappe), −0,749, et manche 2, 51, 23/18 13/12 au lieu de 23/18 6/5*, −0,507; prime-et-ancre : manche 2, 65, 23/12 laisse un pion seul derrière la prime au lieu de 24/18 23/18, −0,321; construire-points : manche 1, 31, 13/9 au lieu de 8/7 8/5, −0,183, et manche 2, 43, 11/4 au lieu de 11/7 6/3, −0,189
 - Notions ajoutées : aucune
 - Détail : historique/2026-11-16-analyse-2026-11-16-gnubg-2305-gnubg.md
+
+## 2026-11-16 · Tutoriel · frapper-ou-construire (Semaine 2, séance 1)
+- Conditions : normales (pion adverse seul dans son jan; prérequis « compter des lancers sur 36 » non réussi deux fois, solution montrée, puis réussi avec le tableau 6 × 6)
+- Étapes réussies du premier coup : coût de la barre selon les points tenus (16/36 contre 1/36); exemple final
+- Étapes reprises : rentrer puis frapper (lecture juste, non appliquée au 5-2, complétée); frapper un 2e pion (bon choix, justification complétée : deux pions à la barre, risque)
+- Exemple final seul : réussi
+- À revoir : compter des lancers sur 36 sans le tableau; nommer le risque d'une frappe; astérisque de frappe dans la notation
+- Questions défectueuses : aucune
+- Détail : historique/2026-11-16-tutoriel-frapper-ou-construire-jan.md
